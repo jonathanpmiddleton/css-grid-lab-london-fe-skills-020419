@@ -18,7 +18,7 @@ body {
   border: 1px solid black;
 }
 
-..bigItem {
+.bigItem {
   grid-area: 2 / 2 / 4 / 4;
   height: 50%;
   width: 50%;
